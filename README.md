@@ -17,3 +17,5 @@ Acceptance criteria:
 - When the user successfully submits the form, they should arrive at a new page that says "Success!!!".
 
 HINT: There are at least 3 bugs on this form, only one of which is covered in the Acceptance Criteria.
+
+[Click here to get started](https://jerdude.github.io/QATestForm/QAForm.html)
