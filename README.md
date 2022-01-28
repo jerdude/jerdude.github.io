@@ -16,6 +16,6 @@ Acceptance criteria:
 - The user should not be able to submit the form if they've provided improperly formatted inputs.
 - When the user successfully submits the form, they should arrive at a new page that says "Success!!!".
 
-HINT: There are at least 4 bugs on this form, only one of which is covered in the Acceptance Criteria.
+HINT: There are at least 5 bugs on this form, only one of which is covered in the Acceptance Criteria.
 
 [Click here to get started](https://jerdude.github.io/QATestForm/QAForm.html)
