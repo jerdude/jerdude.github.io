@@ -9,7 +9,7 @@ Your challenge here is simple! A developer has completed a "PBI" (product backlo
 
 **The PBI:**
 
-We need a form for a user to submit their name, email, a start date, an end date, a very short story, and their favorite number. Name and email will be required.
+We need a form for a user to submit their name, email, a start date, an end date, a very short story, their favorite color, and their favorite number. Name and email will be required.
 
 Acceptance criteria:
 - The user should not be able to submit the form without all required fields having a value.
