@@ -14,7 +14,7 @@ We need a form for a user to submit their name, email, a start date, an end date
 Acceptance criteria:
 - The user should not be able to submit the form without all required fields having a value.
 - The user should not be able to submit the form if they've provided improperly formatted inputs.
-- When the user successfully submits the form, they should arrive at a new page that says "Success!!!".
+- When the user successfully submits the form, they should receive a message that says "Success!!!".
 
 HINT: There are at least 5 bugs on this form and not all are covered by the acceptance criteria.
 
